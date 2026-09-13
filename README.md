@@ -1,3 +1,3 @@
 npm . . . .
 run . . . . . 
-ins
+inst
