@@ -1,4 +1,4 @@
 npm . . . .
 run . . . . . 
 install . . 
-n
+np
