@@ -2,4 +2,4 @@ npm . . . .
 run . . . . . 
 install . . 
 npm 
-build
+build 
