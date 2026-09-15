@@ -3,4 +3,4 @@ run . . . . .
 install . . 
 npm 
 build .
-ru
+run
