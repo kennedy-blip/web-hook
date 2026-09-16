@@ -4,4 +4,4 @@ install . .
 npm 
 build .
 run dev .
-git fi
+git fix
