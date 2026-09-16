@@ -4,3 +4,4 @@ install . .
 npm 
 build .
 run dev .
+g
