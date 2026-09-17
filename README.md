@@ -5,4 +5,4 @@ npm
 build .
 run dev .
 git fix . .
-clear cach
+clear cache
