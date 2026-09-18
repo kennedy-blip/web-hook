@@ -6,3 +6,4 @@ build .
 run dev .
 git fix . .
 clear cache .  
+p
