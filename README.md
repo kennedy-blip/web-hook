@@ -6,4 +6,4 @@ build .
 run dev .
 git fix . .
 clear cache .  
-push to 
+push to g
