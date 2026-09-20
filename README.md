@@ -7,4 +7,4 @@ run dev .
 git fix . .
 clear cache .  
 push to github . com 
-ensure
+ensure e
